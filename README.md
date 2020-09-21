@@ -11,3 +11,7 @@ Sample website with plenty of files for demos.
 check introduction.
 
 ## Deployment
+
+###Copyright
+
+Git.training copyright
