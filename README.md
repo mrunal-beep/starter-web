@@ -15,4 +15,4 @@ check introduction.
 
 ###Copyright
 
-Git.training copyright
+Git.training copyright.All rights reserved.
