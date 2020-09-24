@@ -2,10 +2,10 @@
 <!--
 
 copyright 2014 git.training
+again chnages after this.
 -->
 <head>
-<title>Updating title for slash branch example.
-</title>
+	<title>Check New website</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -19,11 +19,15 @@ copyright 2014 git.training
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
-			Adding more important content
+<<<<<<< HEAD
+			jkhfhdshgkfhgfh
+=======
+			check contents
+>>>>>>> 41a1fba... fb adding some trouble to simple.html
 		</p>
 	</main>
 	<footer class="container">
-		<p>&copy; check change 2020</p>
+		<p>&copy; new change xfkdhghdsk</p>
 	</footer>
 </body>
 </html>
